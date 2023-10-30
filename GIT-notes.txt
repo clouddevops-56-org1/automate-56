@@ -1,1 +1,3 @@
 this notes is for new developers 
+day2 changes from dev-ram
+#new feature changes
