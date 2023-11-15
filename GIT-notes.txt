@@ -1,3 +1,7 @@
 this notes is for new developers 
-day2 changes from dev-ram
-#new feature changes
+<<<<<<< Updated upstream
+day2 changes by ramya 
+=======
+day2 changes from ramya 
+hi this ramya chowdary
+>>>>>>> Stashed changes
